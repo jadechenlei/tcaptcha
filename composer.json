@@ -1,5 +1,19 @@
 {
+    "name": "woordee/tcaptcha",
+    "description": "tcaptcha for woordee",
+    "type": "captcha",
+    "keywords": ["captcha"],
+    "homepage": "http://www.woordee.com/",
+    "license": "php",
+    "authors": [
+        {
+            "name": "chenlei",
+            "email": "chenleib5@126.com"
+        }
+    ],
     "require": {
-        
-    }
+        "php": ">=5.6.0",
+        "hprose/hprose": "dev-master"
+    },
+    "minimum-stability": "dev"
 }
