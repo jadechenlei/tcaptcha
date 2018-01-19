@@ -9,5 +9,6 @@
             "email": "jade.chen@transn.com"
         }
     ],
+	"minimum-stability": "dev",
     "require": {}
 }
