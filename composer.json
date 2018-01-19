@@ -1,14 +1,14 @@
 {
-    "name": "woordee/tcapcha",
-    "description": "tcapha for woordee",
+    "name": "woordee/tcaptcha",
+    "description": "captcha for woordee",
     "type": "project",
     "license": "MIT",
-	"authors": [
+    "authors": [
         {
-            "name": "chenlei",
-            "email": "chenleib5@126.com"
+            "name": "jade.chen",
+            "email": "jade.chen@transn.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {}
 }
