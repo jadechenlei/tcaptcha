@@ -1,17 +1,14 @@
 {
-    "name": "woordee/tcaptcha",
-    "description": "tcaptcha for woordee",
-    "type": "captcha",
-    "keywords": ["captcha"],
-    "homepage": "http://www.woordee.com/",
-    "authors": [
+    "name": "woordee/tcapcha",
+    "description": "tcapha for woordee",
+    "type": "project",
+    "license": "MIT",
+	"authors": [
         {
             "name": "chenlei",
             "email": "chenleib5@126.com"
         }
     ],
-    "require": {
-        "php": ">=5.6.0"
-    },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {}
 }
